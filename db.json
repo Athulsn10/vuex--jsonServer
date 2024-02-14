@@ -1,0 +1,189 @@
+{
+  "iceCreams": [
+    {
+      "id": 1,
+      "name": "Vanilla",
+      "photo": "https://images.pexels.com/photos/1739347/pexels-photo-1739347.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "vanilla extract"
+      ],
+      "price": 3.99,
+      "cart": false
+    },
+    {
+      "id": 2,
+      "name": "Chocolate",
+      "photo": "https://images.pexels.com/photos/2846337/pexels-photo-2846337.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "cocoa"
+      ],
+      "price": 4.99,
+      "cart": false
+    },
+    {
+      "id": 3,
+      "name": "Strawberry",
+      "photo": "https://images.pexels.com/photos/13998978/pexels-photo-13998978.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "strawberries"
+      ],
+      "price": 5.99,
+      "cart": false
+    },
+    {
+      "id": 4,
+      "name": "Mint Chocolate Chip",
+      "photo": "https://images.pexels.com/photos/6025810/pexels-photo-6025810.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "chocolate chips",
+        "mint extract"
+      ],
+      "price": 6.99,
+      "cart": false
+    },
+    {
+      "id": 5,
+      "name": "Caramel Swirl",
+      "photo": "https://images.pexels.com/photos/1169004/pexels-photo-1169004.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "caramel"
+      ],
+      "price": 5.49,
+      "cart": false
+    },
+    {
+      "id": 6,
+      "name": "Coffee",
+      "photo": "https://www.davidlebovitz.com/wp-content/uploads/2017/06/Coffee-Cajeta-ice-cream-recipe-9.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "coffee"
+      ],
+      "price": 4.79,
+      "cart": false
+    },
+    {
+      "id": 7,
+      "name": "Rocky Road",
+      "photo": "https://www.browneyedbaker.com/wp-content/uploads/2021/05/rocky-road-ice-cream-13-square.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "marshmallows",
+        "nuts",
+        "chocolate"
+      ],
+      "price": 7.49,
+      "cart": false
+    },
+    {
+      "id": 8,
+      "name": "Pistachio",
+      "photo": "https://www.keep-calm-and-eat-ice-cream.com/wp-content/uploads/2022/09/Pistachio-ice-cream-hero-06.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "pistachios"
+      ],
+      "price": 6.29,
+      "cart": false
+    },
+    {
+      "id": 9,
+      "name": "Blueberry Cheesecake",
+      "photo": "https://www.cakenknife.com/wp-content/uploads/2016/05/Blueberry-Cheesecake-Ice-Cream-Thumbnail.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "blueberries",
+        "cheesecake bites"
+      ],
+      "price": 7.99,
+      "cart": false
+    },
+    {
+      "id": 10,
+      "name": "Cookies and Cream",
+      "photo": "https://www.scoopclub.com.au/wp-content/uploads/2019/12/Cookies-and-Cream-Ice-Cream-Recipe.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "cookie crumbles"
+      ],
+      "price": 6.49,
+      "cart": false
+    },
+    {
+      "id": 11,
+      "name": "Raspberry Sorbet",
+      "photo": "https://www.biggerbolderbaking.com/wp-content/uploads/2016/04/IMG_0692.jpg",
+      "ingredients": [
+        "raspberries",
+        "sugar",
+        "lemon juice"
+      ],
+      "price": 5.79,
+      "cart": false
+    },
+    {
+      "id": 12,
+      "name": "Peach Melba",
+      "photo": "https://images.immediate.co.uk/production/volatile/sites/2/2015/03/7072.jpg?quality=90&resize=556,505",
+      "ingredients": [
+        "peaches",
+        "raspberry sauce",
+        "vanilla ice cream"
+      ],
+      "price": 8.29,
+      "cart": false
+    },
+    {
+      "id": 13,
+      "name": "Butter Pecan",
+      "photo": "https://thetoastykitchen.com/wp-content/uploads/2020/09/no-churn-butter-pecan-ice-cream-toasty-kitchen-3.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "buttered pecans"
+      ],
+      "price": 7.79,
+      "cart": false
+    },
+    {
+      "id": 14,
+      "name": "Lemon Sorbet",
+      "photo": "https://www.mybakingaddiction.com/wp-content/uploads/2009/06/close-up-lemon-sorbet-hero.jpg",
+      "ingredients": [
+        "lemons",
+        "sugar",
+        "water"
+      ],
+      "price": 5.49,
+      "cart": false
+    },
+    {
+      "id": 15,
+      "name": "Toasted Coconut",
+      "photo": "https://www.theendlessmeal.com/wp-content/uploads/2012/05/Toasted-Coconut-Ice-Cream.jpg",
+      "ingredients": [
+        "cream",
+        "sugar",
+        "toasted coconut"
+      ],
+      "price": 6.99,
+      "cart": false
+    }
+  ],
+  "cart": []
+}
